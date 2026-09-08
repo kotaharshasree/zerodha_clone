@@ -1,0 +1,77 @@
+#p1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:blueviolet ;
+    border-style: hidden;
+    font-size: sm;
+    border-color: burlywood;
+}
+#p2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(63, 4, 82);
+    font-weight: 900;
+    text-transform: uppercase;
+    border-style: groove;
+    border-color: blueviolet;
+}
+.pr1{
+    color: brown;
+    border-style: dashed;
+    border-color: aqua;
+    text-decoration-line: underline;
+    text-align: center;
+}
+.pr2{
+    color: chartreuse;
+    border-style: double;
+    border-color: black;
+    margin-top: 50px;
+}
+
+#head1{
+    background-color: aqua;
+    color: darkgoldenrod;
+}
+#head2{
+    background-color: aquamarine;
+    color: crimson;
+}
+a{
+    text-decoration: none;
+}
+.b1{
+    width: 5px;
+    height: 10px;
+    padding: 50px;
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 20px;
+    margin-right: 22px;
+    background-color: darkgrey;
+}
+.b2{
+    padding-inline: 60;
+    padding-right: 10;
+    background-color: honeydew;
+}
+body{
+    background-color: rgb(215, 225, 241);
+    text-align: center;
+}
+im1{
+    height: 1px;
+    width: 10px;
+}
+im2{
+    align-items: center;
+}
+header{
+    display:flex;
+    justify-content: space-around;
+    align-items: center;
+}
+#turtorials{
+    gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+   
+}
